@@ -1,5 +1,5 @@
 ---
-layout: HQTCSDL
+layout: post
 title: Lab 01
 categories:
 - HQTCSDL

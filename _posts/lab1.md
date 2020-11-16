@@ -1,14 +1,10 @@
-+++
-title = "Lab 1. Tải và cài đặt SQL server trên máy cục bộ"
-date = "2020-11-03"
-author = "Ngọc Tâm"
-authorTwitter = "" #do not include @
-cover = ""
-tags = ["", "hqtcsdl"]
-keywords = ["", ""]
-description = ""
-showFullContent = false
-+++
+---
+layout: post
+title: Hello World
+categories:
+- General
+feature_image: "https://picsum.photos/2560/600?image=872"
+---
 
 ### 1. Giới thiệu về SQL Server
 - SQL Server hiện có nhiều phiên bản khác nhau. Dưới đây là danh sách các phiên bản cùng với tính năng của từng phiên bản.

@@ -3,8 +3,4 @@ layout: page
 title: About this website
 ---
 
-Chào bạn
-
-Cảm ơn bạn đã ghé vào website của tôi. Mọi thông tin liên hệ xin vui lòng gửi vào đây
-
-permalink: https://www.facebook.com/NgoctamZT
+I'm not sure yet what this website is about, but I'm sure I'll work it out soon.

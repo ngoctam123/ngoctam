@@ -1,13 +1,18 @@
----
-layout: post
-title: Hello World
-categories:
-- General
-feature_image: "https://picsum.photos/2560/600?image=872"
----
++++
+title = "Lab 1. Tải và cài đặt SQL server trên máy cục bộ"
+date = "2020-11-03"
+author = "Ngọc Tâm"
+authorTwitter = "" #do not include @
+cover = ""
+tags = ["", "hqtcsdl"]
+keywords = ["", ""]
+description = ""
+showFullContent = false
++++
 
-1. Giới thiệu về SQL Server
-SQL Server hiện có nhiều phiên bản khác nhau. Dưới đây là danh sách các phiên bản cùng với tính năng của từng phiên bản.
+### 1. Giới thiệu về SQL Server
+- SQL Server hiện có nhiều phiên bản khác nhau. Dưới đây là danh sách các phiên bản cùng với tính năng của từng phiên bản.
+
 | Loại   |  Mô tả  |  
 |---|---|
 |  Enterprise  | bản cao cấp nhất với đầy đủ tính năng  |
@@ -21,6 +26,5 @@ SQL Server hiện có nhiều phiên bản khác nhau. Dưới đây là danh s�
 | Business Intelligence	 | Business Intelligence Edition mới được giới thiệu trên SQL Server 2012. Phiên bản này có các tính năng của bản Standard và hỗ trợ một số tính năng nâng cao về BI như Power View và PowerPivot nhưng không hỗ trợ những tính năng nâng cao về mức độ sẵn sàng như AlwaysOn Availability Groups… |
 | Enterprise Evaluation	| bản SQL Server Evaluation Edition là lựa chọn tuyệt vời để dùng được mọi tính năng và có được bản cài miễn phí của SQL Server để học tập và phát triển. Phiên bản này có thời gian hết hạn là 6 tháng từ ngày cài |
 
-
-
-
+### 2. Cài đặt SQLServer
+- {{< figure src="/img/heqtcsdl/lab1/lab1_1.png" title="lab1_1" >}}

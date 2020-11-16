@@ -6,4 +6,4 @@ feature_text: |
   ## Hello world
 ---
 
-Lưu trữ các bài lab của môn học
+There isn't much going on here yet, but watch this space

@@ -3,4 +3,8 @@ layout: page
 title: About this website
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+Chào bạn
+
+Cảm ơn bạn đã ghé vào website của tôi. Mọi thông tin liên hệ xin vui lòng gửi vào đây
+
+url: 'https://www.facebook.com/NgoctamZT'

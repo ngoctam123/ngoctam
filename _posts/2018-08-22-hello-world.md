@@ -23,4 +23,4 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 | Enterprise Evaluation	| bản SQL Server Evaluation Edition là lựa chọn tuyệt vời để dùng được mọi tính năng và có được bản cài miễn phí của SQL Server để học tập và phát triển. Phiên bản này có thời gian hết hạn là 6 tháng từ ngày cài |
 
 ### 2. Cài đặt SQLServer
-- {{< figure src="/img/heqtcsdl/lab1/lab1_1.png" title="lab1_1" >}}
+{% image="/img/heqtcsdl/lab2_1.jpg" caption="Check out my photo" %}

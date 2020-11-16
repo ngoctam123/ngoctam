@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Hello World
+layout: HQTCSDL
+title: Lab 01
 categories:
-- General
+- HQTCSDL
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
